@@ -1,0 +1,15 @@
+1. Clone repo : git clone https://github.com/SoubhikSinha/Blog-Generation-LLM-Application.git
+
+2. Create env : conda create --prefix ./venv python=3.11 -y
+
+3. activate env : conda activate venv/
+
+4A. Download Llama Model : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
+
+4B. Store the model in the directory : "models"
+
+5. Install dependencies : pip install -r requirements.txt
+
+6. Running strealit application : streamlit run app.py
+
+7. Stop the server : Ctrl + C (in Terminal)
