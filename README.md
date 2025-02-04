@@ -1,7 +1,6 @@
 # Blog Generation - Llama 2
 
-### Acknowledgement
-
+## Acknowledgement
 [](https://github.com/SoubhikSinha/LLM-LangChain-PineCone-VectorDB#acknowledgement)
 
 I would like to extend my sincere thanks to  [Krish Naik](https://github.com/krishnaik06)  for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resource(s).
@@ -20,7 +19,7 @@ Since the full **Llama-2** model is massive, we use a [compressed version of Lla
 
 <br>
 
-### How to Run the Project ?
+## How to Run the Project ?
 ### **1. Clone the Repository**
 Clone the repository to your local machine :
 ```bash
